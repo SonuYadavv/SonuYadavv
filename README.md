@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonuyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="sonuyadavv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sonu4yaduvansih" target="blank"><img src="https://img.shields.io/twitter/follow/sonu4yaduvansih?logo=twitter&style=for-the-badge" alt="sonu4yaduvansih" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__sonu_y" target="blank"><img src="https://img.shields.io/twitter/follow/sonu4yaduvansih?logo=twitter&style=for-the-badge" alt="sonu4yaduvansih" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Power BI, Excel**
 
