@@ -1,3 +1,4 @@
+![logo](https://github.com/SonuYadavv/SonuYadavv/blob/main/2.png)
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sonu Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
