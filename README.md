@@ -2,11 +2,12 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sonu Yadav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"alt="coding"width="400"src="https://tierheimseite.de/animated-gifs-carpenter-creative-cc-28414883">
+<img align="right"alt="coding"width="400"src="![image](https://github.com/SonuYadavv/SonuYadavv/assets/125583555/afff98b3-2510-4ce6-8187-bd8a3cb77ea0)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonuyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="sonuyadavv" /> </p>
 
-<p align="left"> <a href="https://twitter.com/__sonu_y" target="blank"><img src="https://img.shields.io/twitter/follow/sonu4yaduvansih?logo=twitter&style=for-the-badge" alt="sonu4yaduvansih" /></a> </p>
+<p align="left"> <a href="https://twitter.com/__sonu_y" target="blank"><img src="https://img.shields.io/twitter/follow/__sonu_y?logo=twitter&style=for-the-badge" alt="__sonu_y" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Power BI, Excel**
 
@@ -16,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sonu4yaduvansih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonu4yaduvansih" height="30" width="40" /></a>
+<a href="https://twitter.com/__sonu_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__sonu_y" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonuyadavece" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonuyadavece" height="30" width="40" /></a>
 <a href="https://instagram.com/__sonu_y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__sonu_y" height="30" width="40" /></a>
 </p>
